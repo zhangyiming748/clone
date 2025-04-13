@@ -57,7 +57,7 @@ func main() {
 				fmt.Println(string(out))
 			}
 			log.Println("sleep 5 min")
-			time.Sleep(5 * time.Minute)
+			time.Sleep(100 * time.Second)
 		}
 	}
 }
