@@ -1,0 +1,146 @@
+zhangyiming748/Green	a commit a day keeps your girlfriend away.	public	2025-04-13T12:33:12Z
+zhangyiming748/FastTdl		public	2025-04-13T12:18:28Z
+zhangyiming748/qweather	和风天气api使用	public	2025-04-13T10:17:24Z
+zhangyiming748/dev-site	和风天气开发文档的源代码 Source code for dev.qweather.com	public, fork	2025-04-12T15:30:32Z
+zhangyiming748/FFmpegBatchCut	给定时间 批量截取视频 比如给 00:00:03 01:30:03 自动生成 ffmpeg -ss 00:00:03 -to 01:30:03 并且调用 exec.command.Run 执行	public	2025-04-11T14:22:30Z
+zhangyiming748/zhangyiming748.github.io		public	2025-04-10T07:00:46Z
+zhangyiming748/MultimediaProcessingPipeline	使用了yt-dlp下载视频 然后使用openai-whisper生成视频 再使用translate-shell 翻译为双语字幕 最后合成为mkv外挂字幕的视频 以上这些功能会以流水线的形式处理多个视频	public	2025-04-07T15:39:14Z
+zhangyiming748/aboutTelethon	use Telethon	public	2025-04-06T07:45:03Z
+zhangyiming748/AVmerger	合并哔哩哔哩手机版缓存的视频	public	2025-04-05T16:39:49Z
+zhangyiming748/danmaku2ass	Convert comments from Niconico/AcFun/bilibili to ASS format	public, fork	2025-04-05T13:11:56Z
+zhangyiming748/archiveVideos	批量处理全部视频为H265编码hvc1的mp4视频 抽象为单独的包统一使用方法	public	2025-04-05T07:37:07Z
+zhangyiming748/coze	测试这个新的AI智能体	public	2025-04-04T15:25:34Z
+zhangyiming748/meDisplay	使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕	public, fork	2025-04-04T14:22:23Z
+zhangyiming748/bilibiliWithYtdlp	容器化使用yt-dlpbilibili会员视频	public	2025-03-31T06:57:05Z
+zhangyiming748/FastRename	快速批量按照规则重命名文件	public	2025-03-30T13:44:41Z
+zhangyiming748/ShortVideoVerifier	验证网络上的八股文	public	2025-03-23T11:04:44Z
+zhangyiming748/silk-v3-decoder	[Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.	public, fork	2025-03-13T01:40:04Z
+zhangyiming748/openkylin-faqyh		public	2025-03-10T06:12:04Z
+zhangyiming748/MultiTranslatorUnifier	聚合翻译服务	public	2025-03-03T04:53:34Z
+zhangyiming748/FastRelease	使用workflow快速生成软件和工具	public	2025-02-27T02:52:16Z
+zhangyiming748/kuake_qiandao	夸克网盘自动签到	public, fork	2025-02-23T10:41:32Z
+zhangyiming748/FastBS4		public	2025-02-14T10:41:43Z
+zhangyiming748/checkin	发送curl请求签到	private	2025-02-09T14:59:24Z
+zhangyiming748/FastStorage	写好最基础的各种数据库使用框架	public	2025-02-02T14:52:36Z
+zhangyiming748/ollamaTranslate	使用llm实现翻译	public	2025-02-01T08:56:19Z
+zhangyiming748/ollama	Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.	public, fork	2025-02-01T04:16:14Z
+zhangyiming748/mergeAfterWhisper	使用Nvidia硬件加速合并处理好的硬字幕	public	2025-01-27T07:45:59Z
+zhangyiming748/AnyVideosToH265	转换全部视频文件为HEVC编码	public	2025-01-24T04:52:24Z
+zhangyiming748/tdl-web		public	2025-01-17T14:17:53Z
+zhangyiming748/whisper-web		public	2025-01-17T13:07:56Z
+zhangyiming748/trans-web		public	2025-01-17T09:56:48Z
+zhangyiming748/ytdlp-web		public	2025-01-17T09:55:38Z
+zhangyiming748/iptv	天光云影提供的iptv列表	public	2025-01-17T08:40:19Z
+zhangyiming748/airport	机场订阅	private	2025-01-12T19:05:15Z
+zhangyiming748/SambaWithDocker		public	2025-01-08T21:13:39Z
+zhangyiming748/MP3Recover	把所有音频文件恢复成原始MP3格式	public	2025-01-08T19:47:58Z
+zhangyiming748/openai-gemini	Gemini ➜ OpenAI API proxy. Serverless!	public, fork	2025-01-04T18:43:27Z
+zhangyiming748/DeepLX	Powerful Free DeepL API, No Token Required	public, fork	2024-12-31T15:00:49Z
+zhangyiming748/auto-linuxdo	https://linux.do/t/topic/281588	public	2024-12-31T08:16:41Z
+zhangyiming748/BusStationTracker	获取指定公交站点所有公交车的动态信息 包括但不限于等待时间	public	2024-12-30T10:03:00Z
+zhangyiming748/GoGeoSpotter	使用高的开放平台的服务实现经纬度 <=> 具体位置	public	2024-12-27T12:02:19Z
+zhangyiming748/gosseract	Go package for OCR (Optical Character Recognition), by using Tesseract C++ library	public, fork	2024-12-27T08:32:41Z
+zhangyiming748/BaiduPCS-Go	iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能	public, fork	2024-12-23T11:55:22Z
+zhangyiming748/librephotos-docker	You can find here the Dockerfiles for the automated build process of LibrePhotos.	public, fork	2024-12-11T11:31:31Z
+zhangyiming748/docker.ui		public, fork	2024-12-11T02:06:22Z
+zhangyiming748/aiwechat-vercel	使用vercel的functions，将ai功能加入微信公众号	public, fork	2024-12-04T04:03:10Z
+zhangyiming748/FastSqlite	基本的 使用sqlite 的方法	public	2024-12-03T14:18:39Z
+zhangyiming748/Abracadabra		private	2024-11-28T11:42:36Z
+zhangyiming748/ASCII-generator	ASCII generator (image to text, image to image, video to video)	public, fork	2024-11-20T18:42:58Z
+zhangyiming748/shfmt	A shell parser, formatter, and interpreter with bash support; includes shfmt	public, fork	2024-11-19T12:45:41Z
+zhangyiming748/sendEmailAlert	通过电子邮件发送文件处理结果	public	2024-11-18T09:16:41Z
+zhangyiming748/duplicate	查找、统计并删除重复文件	public	2024-11-16T12:19:28Z
+zhangyiming748/timing	计时函数	public	2024-11-11T09:00:30Z
+zhangyiming748/FastGin	使用gin框架的快速用法	public	2024-11-03T01:31:52Z
+zhangyiming748/FastCangjie	快速部署最新版仓颉sdk	public	2024-10-31T04:11:04Z
+zhangyiming748/tdl	📥 Telegram Downloader, but more than a downloader 🚀	public, fork	2024-10-27T12:28:24Z
+zhangyiming748/FastOllama	快速部署ollama前后端	public	2024-09-21T10:54:05Z
+zhangyiming748/MockingBird	🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time	public, fork	2024-09-18T11:02:56Z
+zhangyiming748/ConvertVideo	视频相关转码工具 尽量不依赖第三方库	public	2024-09-13T12:40:54Z
+zhangyiming748/mp4srt2mkvass		public	2024-09-03T06:23:34Z
+zhangyiming748/FastMediaInfo	统一的mediainfo解析方法	public	2024-08-16T15:06:33Z
+zhangyiming748/VideoConverteH265	获取全部视频 如果不是h265就转换	public	2024-08-16T10:48:32Z
+zhangyiming748/ConvertImage	图片相关转码工具 尽量不依赖第三方库	public	2024-08-10T03:27:02Z
+zhangyiming748/telegraph	下载telegraph	public	2024-07-16T18:45:59Z
+zhangyiming748/kernel_deb_builder		public, fork	2024-07-08T14:57:04Z
+zhangyiming748/ProgressBarGo	Go语言中实现输出进度条	public	2024-07-05T06:32:20Z
+zhangyiming748/avif-image-encoder	转换全部图片文件为avif	public	2024-07-04T09:18:39Z
+zhangyiming748/aac-audio-encoder	转换全部音频文件为aac	public	2024-07-04T08:54:36Z
+zhangyiming748/ConvertAudio	音频相关转码工具 尽量不依赖第三方库	public	2024-07-04T04:49:03Z
+zhangyiming748/go-scp	Simple Golang scp client	public, fork	2024-07-02T13:32:48Z
+zhangyiming748/FastYt-dlp	使用yt-dlp批量下载文件	public	2024-06-26T10:46:24Z
+zhangyiming748/RemoveIntroOutro	批量去除片头片尾	public	2024-06-17T09:25:59Z
+zhangyiming748/lumberjack	lumberjack is a log rolling package for Go	public, fork	2024-06-12T07:19:37Z
+zhangyiming748/FastRedka	快速使用github.com/nalgeon/redka	public	2024-06-12T03:37:00Z
+zhangyiming748/redka	Redis re-implemented with SQLite	public, fork	2024-06-10T17:14:32Z
+zhangyiming748/ollama-chatgpt-web	https://gitee.com/fly-llm/ollama-chatgpt-web	public	2024-06-06T00:32:54Z
+zhangyiming748/quick-video-retranscoder	对当前文件夹下全部可能存在问题的视频快速重新编码 以供其他视频剪辑软件可以正确读取并处理视频	public	2024-06-06T00:31:22Z
+zhangyiming748/ImageToVideoWithWatermark	图片转换为带水印视频	public	2024-05-18T16:00:28Z
+zhangyiming748/EmailBatchSenderByExcel	Excel邮件群发助手	public	2024-04-28T13:48:37Z
+zhangyiming748/RemoteDesktopOnDocker	使用容器实现远程桌面	public	2024-04-17T12:46:03Z
+zhangyiming748/processAll		public	2024-04-12T07:17:28Z
+zhangyiming748/aichat	OpenAI GPT API 驱动的人工智能聊天	public, fork	2024-04-04T14:07:53Z
+zhangyiming748/SplitSrtByPunctuation	判断当前行结尾是否有标点符号，如果没有则和下一组字幕文本合并	public	2024-04-01T03:07:39Z
+zhangyiming748/transFileName2zh_cn	翻译文件名为中文	public	2024-03-31T06:01:49Z
+zhangyiming748/renameAll	批量重命名操作失误产生的文件名	public	2024-03-17T04:35:44Z
+zhangyiming748/GetFileInfo	获取指定文件夹中的特定文件信息	public	2024-03-14T01:20:21Z
+zhangyiming748/xml2ass	bilibili生成的xml弹幕文件重新转换成ass	public	2024-02-29T14:39:03Z
+zhangyiming748/freeTranslate		public	2024-02-29T01:11:02Z
+zhangyiming748/danmakuBatchAss	bilibili弹幕批量转换为ass外挂字幕	public	2024-02-23T09:13:02Z
+zhangyiming748/processAudio		public	2024-02-19T16:49:53Z
+zhangyiming748/subscribe	订阅转换	private	2024-02-19T06:14:35Z
+zhangyiming748/countYTB	计算YouTube视频的统计信息	public	2024-02-05T04:41:50Z
+zhangyiming748/subconverter	Utility to convert between various subscription format	public, fork	2024-01-18T07:48:37Z
+zhangyiming748/srt2lrc	字幕文件转换歌词文件	public	2024-01-11T04:09:54Z
+zhangyiming748/GetAllFolder	递归获取全部文件夹	public	2023-12-28T05:36:37Z
+zhangyiming748/ai-code-translator	Use AI to translate code from one language to another.	public, fork	2023-12-21T00:19:08Z
+zhangyiming748/iptv-sources	自动抓取更新iptv源 Autoupdate iptv sources	public, fork	2023-12-16T16:10:13Z
+zhangyiming748/GoRedisClient	使用官方推荐的github.com/redis/go-redis/v9	public	2023-12-03T12:20:24Z
+zhangyiming748/archiveAndroid	归档安卓文件	public	2023-11-22T12:31:51Z
+zhangyiming748/shadowsocks-libev	自定义代理列表	public	2023-11-17T14:01:05Z
+zhangyiming748/cpuid	CPU feature identification for Go	public, fork	2023-11-13T08:26:43Z
+zhangyiming748/PicStorage4HR	求职过程中需要的图片统一保存位置	public	2023-11-10T02:03:43Z
+zhangyiming748/filetype	Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature	public, fork	2023-10-16T15:21:58Z
+zhangyiming748/GetFolders	尽可能的使用内部方法获取全部子文件夹	public	2023-09-02T08:01:16Z
+zhangyiming748/beautifulSoup	soupByGo	public	2023-07-06T06:39:22Z
+zhangyiming748/skygo	某个被废弃的项目	public	2023-06-21T07:16:16Z
+zhangyiming748/telegram-bot-api	Golang bindings for the Telegram Bot API	public, fork	2023-06-17T19:33:59Z
+zhangyiming748/mahonia	character-set conversion library implemented in Go	public, fork	2023-06-15T08:08:53Z
+zhangyiming748/processVideo	分类处理视频编码	public	2023-06-13T06:51:34Z
+zhangyiming748/GBK2UTF8	批量转换文本文件编码	public	2023-06-11T11:42:08Z
+zhangyiming748/replace	用于统一通用的文件名特殊符号替换库	public	2023-06-03T10:25:57Z
+zhangyiming748/processImage	压缩图片为avif编码	public	2023-05-21T04:01:35Z
+zhangyiming748/voiceAlert	运行耗时程序进程节点语音通知	public	2023-05-21T03:30:14Z
+zhangyiming748/GoOriginHttp	练习使用Golang原生http方法	public	2023-05-16T09:56:21Z
+zhangyiming748/read_xlsx	读取Microsoft表格	public	2023-05-04T14:19:50Z
+zhangyiming748/navicat_premium_sinicization	NavicatPremium16汉化包	public, fork	2023-04-09T05:02:23Z
+zhangyiming748/goini	golang读取ini配置文件	public, fork	2023-04-03T14:16:43Z
+zhangyiming748/go-gpt3	OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go	public, fork	2023-03-02T08:55:12Z
+zhangyiming748/chatGpt	调用chatgpt公开接口,实现cli查询服务	public	2023-02-12T07:05:13Z
+zhangyiming748/GracefullyExit	优雅的退出go程序	public	2023-02-10T04:07:22Z
+zhangyiming748/LanguageTool	一个语法检查API	public	2023-02-06T14:28:33Z
+zhangyiming748/pretty	like fmt.Println but more pretty and beautiful print Go values.	public	2023-02-06T08:05:58Z
+zhangyiming748/DWebp	webp批量转换为指定格式	public	2022-11-19T09:24:53Z
+zhangyiming748/media_process_ffmpeg	强大的音视频处理工具：ffmpeg	public, fork	2022-11-15T13:05:55Z
+zhangyiming748/serverChan	封装使用server酱	public	2022-10-23T15:12:55Z
+zhangyiming748/CWebp	指定格式批量转换为webp	public	2022-09-20T09:56:58Z
+zhangyiming748/CrazyKFC	疯狂星期四	public	2022-09-15T06:38:08Z
+zhangyiming748/Gridea	站点源文件定期备份	public	2022-09-08T16:44:04Z
+zhangyiming748/amr2mp3	微信语音转换	public	2022-08-19T17:22:27Z
+zhangyiming748/Widget	小工具	public, archived	2022-05-23T08:53:55Z
+zhangyiming748/HydraServer	处理并回传hydra命令结果的服务端	public	2022-04-14T06:47:32Z
+zhangyiming748/HydraClient	发出hydra命令的客户端	public	2022-04-14T06:47:25Z
+zhangyiming748/hey	HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom	public, fork	2021-11-29T11:43:40Z
+zhangyiming748/replacChinesePunctuation	python3批量替换中文标点符号	public	2021-10-28T09:01:03Z
+zhangyiming748/recommend	推荐系统实现	public, archived	2021-10-28T08:25:46Z
+zhangyiming748/ProgrammingGo	Go语言程序设计习题练习	public	2021-10-28T08:23:57Z
+zhangyiming748/v2ray-core	A platform for building proxies to bypass network restrictions.	public, fork	2021-08-18T05:18:13Z
+zhangyiming748/passwdDict	压缩文件密码字典	private	2021-07-07T13:08:50Z
+zhangyiming748/Fuck-XueXiQiangGuo	学习强国 懒人刷分工具 自动学习	public, fork	2021-01-16T08:09:25Z
+zhangyiming748/cronexpr	Cron expression parser in Go language (golang) 定时任务	public, fork	2020-11-14T14:51:31Z
+zhangyiming748/removeCache	删除并阻止没必要的缓存进入手机	public	2020-09-22T02:07:39Z
+zhangyiming748/makeIcon4Mac	制作用于macOS的图标文件	public	2020-08-23T16:55:13Z
+zhangyiming748/scripts	some useful scripts	public, fork	2020-04-26T16:54:30Z
+zhangyiming748/aboutProxy	代理软件	public	2020-04-02T03:54:03Z
+zhangyiming748/reg_bat_Tools	some useful tools	public	2020-03-20T12:28:45Z
+zhangyiming748/Movie_Search_System_Practice	Movie_Search_System_Practice_for_learn	public, archived	2019-05-14T13:48:07Z
