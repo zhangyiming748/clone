@@ -3,10 +3,11 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"log"
 	"os"
 	"os/exec"
 	"strings"
-	
+	"time"
 )
 
 // ReadLines 从指定文件中读取所有行，并返回一个字符串切片
@@ -31,7 +32,7 @@ func ReadLines(filePath string) ([]string, error) {
 }
 
 func main() {
-	filePath := "/Users/zen/Downloads/backup/repo.list"
+	filePath := "repo.list"
 	lines, err := ReadLines(filePath)
 	if err != nil {
 		fmt.Println("Error:", err)
@@ -50,12 +51,13 @@ func main() {
 			fmt.Printf("URL: %v\n", url)
 			cmd := exec.Command("git", "clone", url, name)
 			fmt.Println(cmd.String())
-			if out,err:=cmd.CombinedOutput();err!=nil{
+			if out, err := cmd.CombinedOutput(); err != nil {
 				fmt.Println(err)
-			}else{
+			} else {
 				fmt.Println(string(out))
 			}
-			
+			log.Println("sleep 5 min")
+			time.Sleep(5 * time.Minute)
 		}
 	}
 }
